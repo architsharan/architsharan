@@ -22,8 +22,9 @@
 ---
 
 ## 📌 Featured Projects
-### 🔹 [Tic Tac Toe - Using C++ & classes](https://github.com/architsharan/tic-tac-toe-C++)
-
+### 🔹 Tic Tac Toe - Using C++ & Classes
+**Tic-Tac-Toe:** A two-player console game in C++ with colored output and interactive gameplay.  
+[View Project](https://github.com/architsharan/tic-tac-toe)
 
 ---
 
