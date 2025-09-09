@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Archit Sharan  
 
-🎓 **BCA Student @ CMR University, Bengaluru**  
+🎓 **BCA Student**  
 💻 **Aspiring Software Engineer | Full Stack Development | AI & Open Source Enthusiast**  
 
 ---
 
 ## 🚀 About Me
 - 🌱 Currently learning **Full Stack Development** (JavaScript, Node.js, MongoDB)  
-- 💡 Skilled in **C, C++, Java, and DSA** with problem-solving mindset  
+- 💡 Skilled in **C, C++, and Java** with problem-solving mindset  
 - ⚡ Comfortable in **Linux & Shell Scripting**  
 - 🌍 Passionate about **AI, Cloud, and Open Source**  
 - ✨ Always exploring new tools & technologies  
@@ -22,7 +22,7 @@
 ---
 
 ## 📌 Featured Projects
-### 🔹 [AVAST – Multipurpose Discord Bot](https://github.com/architsharan/avast-discord-bot)
+### 🔹 [Calculator - C++ Using classes](https://github.com/architsharan/Calculator-C++)
 
 
 ---
