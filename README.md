@@ -22,7 +22,7 @@
 ---
 
 ## 📌 Featured Projects
-### 🔹 [Calculator - C++ Using classes](https://github.com/architsharan/Calculator-C++)
+### 🔹 [Tic Tac Toe - Using C++ & classes](https://github.com/architsharan/tic-tac-toe-C++)
 
 
 ---
