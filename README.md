@@ -56,8 +56,6 @@ A **two-player interactive console game** built in **C++** using **Object-Orient
 <img src="https://github-readme-stats.vercel.app/api?username=architsharan&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=architsharan&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
-<br>
-<img src="https://streak-stats.demolab.com/?user=architsharan&theme=default" alt="GitHub Streak" />
 <br></br>
 
 ⭐️ *“Constantly learning. Always building.”* 
