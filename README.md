@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=architsharan&amp;label=Profile%20views&amp;color=770677&amp;style=for-the-badge&amp;logo=star" alt="Kiran1689" style="padding-right:20px;">
+  <img src="https://komarev.com/ghpvc/?username=architsharan&amp;label=Profile%20views&amp;color=770677&amp;style=for-the-badge&amp;logo=star" alt="architsharan" style="padding-right:20px;">
 </p>
 
 # 👋 Hi, I'm Archit Sharan   
