@@ -61,10 +61,10 @@ Currently pursuing a **BCA**, with a focus on building **scalable applications**
 ## 🔗 Connect With Me  
 
 <a href="https://github.com/architsharan" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px; margin-left: 10px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px; margin-left: 10px;" />
 </a>
 <a href="https://www.linkedin.com/in/archit-sharan-0b4ba2390" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;margin-left: 10px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;margin-left: 10px;" />
 <a href="mailto:architsharan18@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="gmail" style="margin-bottom: 5px; margin-left: 10px;">
 </a>
