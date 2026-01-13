@@ -36,6 +36,16 @@ Currently pursuing a **BCA**, with a focus on building **scalable applications**
 
 ## 📊 Github Stats
 
+<table align="left">
+<tbody><tr border="none">
+<td width="50%" align="center">
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ElioChiu&amp;theme=dark&amp;hide_border=false"> 
+</td><td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ElioChiu&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=7">
+  </td>
+</tr>
+</tbody></table>
+
 <a href="https://github.com/architsharan">
   <img width="450px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=architsharan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img width="450px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=architsharan&layout=compact&langs_count=8&theme=algolia"/>
