@@ -51,7 +51,6 @@ Currently pursuing a **BCA**, with a focus on building **scalable applications**
 </table>
 </table><br><br>
 
-
 ⭐️ *“Constantly learning. Always building.”* 
 
 ---
