@@ -41,7 +41,7 @@ Currently pursuing a **BCA**, with a focus on building **scalable applications**
 </a>
 <a href="https://github.com/architsharan">
   <img width="450px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=architsharan&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+</a><br>
 
 
 ⭐️ *“Constantly learning. Always building.”* 
