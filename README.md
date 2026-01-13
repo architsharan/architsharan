@@ -34,13 +34,10 @@ Currently pursuing a **BCA**, with a focus on building **scalable applications**
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div><br>
 
----
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=architsharan&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=architsharan&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=architsharan&show_icons=true&count_private=true&theme=radical" alt="Archit's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=architsharan&layout=compact&theme=radical" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=architsharan&theme=react-dark" alt="Contribution Graph" /> </p>
 <br>
 
 ⭐️ *“Constantly learning. Always building.”* 
