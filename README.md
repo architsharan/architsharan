@@ -34,21 +34,6 @@ Currently pursuing a **BCA**, with a focus on building **scalable applications**
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div><br>
 
-## 📌 Featured Projects  
-
-### 🔹 Tic Tac Toe – C++ (Object-Oriented)  
-A **two-player interactive console game** built in **C++** using **Object-Oriented Programming (OOP) principles** and classes. The game features a clean interface, colored output for better user experience, and handles player turns with proper validation.  
-
-🔑 **Highlights:**  
-- Implemented using **classes and OOP concepts**  
-- Interactive gameplay with **colored console output**  
-- Validates moves and ensures fair play  
-- Lightweight, fast, and runs on any standard C++ compiler  
-
-📂 **Repository:** [Tic Tac Toe on GitHub](https://github.com/architsharan/tic-tac-toe)
-
-<br>
-
 ---
 
 ## 📊 GitHub Stats
