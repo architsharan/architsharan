@@ -34,9 +34,10 @@ Currently pursuing a **BCA**, with a focus on building **scalable applications**
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div><br>
 
+## 📊 Github Stats
 <p align="center">
 <a href="https://github.com/architsharan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=architsharan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=architsharan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=architsharan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
