@@ -52,10 +52,7 @@ Currently pursuing a **BCA**, with a focus on building **scalable applications**
       <img width="450px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=architsharan&theme=algolia&hide_border=false&langs_count=7"/>
     </td>
   </tr>
-</table>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrix40&amp;theme=tokyonight&amp;layout=compact" width="45%">
-</div>
+</table><br>
 
 ⭐️ *“Constantly learning. Always building.”* 
 
