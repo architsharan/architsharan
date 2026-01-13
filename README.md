@@ -53,9 +53,9 @@ Currently pursuing a **BCA**, with a focus on building **scalable applications**
     </td>
   </tr>
 </table>
-<p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrBlueBird2&amp;theme=onedark" alt="MrBlueBird2">
-</p><br>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrix40&amp;theme=tokyonight&amp;layout=compact" width="45%">
+</div>
 
 ⭐️ *“Constantly learning. Always building.”* 
 
