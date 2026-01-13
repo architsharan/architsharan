@@ -51,7 +51,7 @@ Currently pursuing a **BCA**, with a focus on building **scalable applications**
     <td width="50%" align="center">
       <img width="450px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=architsharan&theme=algolia&hide_border=false&langs_count=7"/>
     </td><td width="50%">
-      <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=architsharan&theme=algolia" alt="architsharan" />
+      <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrBlueBird2&amp;theme=onedark" alt="MrBlueBird2">
     </td>
   </tr>
 </table>
