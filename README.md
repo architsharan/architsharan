@@ -53,7 +53,9 @@ Currently pursuing a **BCA**, with a focus on building **scalable applications**
     </td>
   </tr>
 </table>
-<p align="center"> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=architsharan&theme=algolia" alt="architsharan streak stats"/> </p><br>
+<p align="center">
+  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrBlueBird2&amp;theme=onedark" alt="MrBlueBird2">
+</p><br>
 
 ⭐️ *“Constantly learning. Always building.”* 
 
