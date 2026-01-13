@@ -49,7 +49,7 @@ Currently pursuing a **BCA**, with a focus on building **scalable applications**
     </td>
   </tr>
 </table>
-</table><br><br>
+</table><br>
 
 ⭐️ *“Constantly learning. Always building.”* 
 
